@@ -1,0 +1,24 @@
+{
+  "currencies": [
+    {
+      "currency": "USD",
+      "locale": "en-US"
+    },
+    {
+      "currency": "GBP",
+      "locale": "en-GB"
+    },
+    {
+      "currency": "INR",
+      "locale": "en-IN"
+    },
+    {
+      "currency": "EUR",
+      "locale": "de-DE"
+    },
+    {
+      "currency": "JPY",
+      "locale": "ja-JP"
+    }
+  ]
+}
